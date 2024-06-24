@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>hafur.com</title>
   <subtitle>A minimal, personal blog with tech and photos.</subtitle>
-  <updated>2024-06-24T19:53:00+02:00</updated>
+  <updated>2024-06-24T20:03:20+02:00</updated>
   <author>
     <name>kevin</name>
     <uri>http://localhost:4000/</uri>
@@ -69,6 +69,32 @@ it should actually work because I’m using the app so I’m committing right to
 While my current version of hafur.com still online, I am already preparing a new version.
 
 I am moving back to a Jekyll-based homepage. This time I will use GitHub Pages for the hosting. This is will take away one major headache, I had the last time I was using Jekyll: The server maintenance. That part I am happy to leave to Github going ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>I sold all my Fuji camera gear</title>
+    <link href="http://localhost:4000/posts/fuji-gear/" rel="alternate" type="text/html" title="I sold all my Fuji camera gear" />
+    <published>2021-11-13T00:00:00+01:00</published>
+  
+    <updated>2021-11-13T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/fuji-gear/</id>
+    <content src="http://localhost:4000/posts/fuji-gear/" />
+    <author>
+      <name>hafur</name>
+    </author>
+
+  
+    
+    <category term="cameras" />
+    
+  
+
+  <summary>A few weeks back, I sold all of my camera equipment. A Fuji X-E4, a Fuji X-M1, and all the lenses for the two cameras: the 56mm f1.2, the 23mm f2, and the 18-55mm.
+
+Why? I realized how slow the system was after picking up my old Nikon D90 at my mum’s place. Yes – there you go: I sold the latest model of the Fuji X-E series, including 3 very renowned lenses, because I was playing with a 13-year-...</summary>
 
   </entry>
 
