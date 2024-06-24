@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Blogging on the go",
+    "url": "/posts/blogging/",
+    "categories": "general",
+    "tags": "updates",
+    "date": "2024-06-24 00:00:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "hi friends. Now by moving to get pages, I’m hoping that I can improve my whole workflow a little bit. This post is actually written on my iPhone. Actually it is dictated on my iPhone.I want to see ...",
+    "content": "hi friends. Now by moving to get pages, I’m hoping that I can improve my whole workflow a little bit. This post is actually written on my iPhone. Actually it is dictated on my iPhone.I want to see if I can use the GitHub app on my phone to post some new content to my webpage.it should actually work because I’m using the app so I’m committing right to my repository and that should trigger the get up actions workflow to build and deploy my updated webpage.No, where this will be probably a little bit of a challenge is when it comes to posting photos."
+  },
+  
+  {
     "title": "Reboot of hafur.com",
     "url": "/posts/reboot/",
     "categories": "general",
@@ -14,7 +31,7 @@
 
     
     "snippet": "When this post goes online it will be already quite old.While my current version of hafur.com still online, I am already preparing a new version.I am moving back to a Jekyll-based homepage. This ti...",
-    "content": "When this post goes online it will be already quite old.While my current version of hafur.com still online, I am already preparing a new version.I am moving back to a Jekyll-based homepage. This time I will use GitHub Pages for the hosting. This is will take away one major headache, I had the last time I was using Jekyll: The server maintenance. That part I am happy to leave to Github going forward.I think I will also stay with the default theme (I am using Chirpy) and to stay away from modifications in order to keep things working.Chirpy is out-of-the-box a theme with a nice design and good functionality. I will have to get used to the concept of ‘categories’.I am also trying to be as mindful about photo storage. Images and photos should not be stored in Github.I will be using OCI Object Storage to store all binary files.For example, this photo is stored in OCI Object Storage:"
+    "content": "When this post goes online it will be already quite old.While my current version of hafur.com still online, I am already preparing a new version.I am moving back to a Jekyll-based homepage. This time I will use GitHub Pages for the hosting. This is will take away one major headache, I had the last time I was using Jekyll: The server maintenance. That part I am happy to leave to Github going forward.I think I will also stay with the default theme (I am using Chirpy) and to stay away from modifications in order to keep things working.Chirpy is out-of-the-box a theme with a nice design and good functionality. I will have to get used to the concept of 'categories'. I am also trying to be as mindful about photo storage. Images and photos should not be stored in Github.I will be using OCI Object Storage to store all binary files.For example, this photo is stored in OCI Object Storage:![Philipines](https://axafadvbguje.objectstorage.eu-amsterdam-1.oci.customer-oci.com/p/k7dfc_mckNrhh8QRruCHdN37k7gTc9rt73WVWcJkus3I_5tEhEZBgEs6V-qS6l9L/n/axafadvbguje/b/hafur/o/2015-01-philipines-01.jpg)"
   }
   
 ]

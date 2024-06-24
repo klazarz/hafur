@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>http://localhost:4000/</id>
   <title>hafur.com</title>
   <subtitle>A minimal, personal blog with tech and photos.</subtitle>
-  <updated>2024-06-23T23:11:28+02:00</updated>
+  <updated>2024-06-24T19:53:00+02:00</updated>
   <author>
     <name>kevin</name>
-    <uri>/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 kevin </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,41 @@
 
   
   <entry>
+    <title>Blogging on the go</title>
+    <link href="http://localhost:4000/posts/blogging/" rel="alternate" type="text/html" title="Blogging on the go" />
+    <published>2024-06-24T00:00:00+02:00</published>
+  
+    <updated>2024-06-24T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/blogging/</id>
+    <content src="http://localhost:4000/posts/blogging/" />
+    <author>
+      <name>hafur</name>
+    </author>
+
+  
+    
+    <category term="general" />
+    
+  
+
+  <summary>hi friends. Now by moving to get pages, I’m hoping that I can improve my whole workflow a little bit. This post is actually written on my iPhone. 
+Actually it is dictated on my iPhone.
+I want to see if I can use the GitHub app on my phone to post some new content to my webpage.
+it should actually work because I’m using the app so I’m committing right to my repository and that should trigger the...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Reboot of hafur.com</title>
-    <link href="/posts/reboot/" rel="alternate" type="text/html" title="Reboot of hafur.com" />
+    <link href="http://localhost:4000/posts/reboot/" rel="alternate" type="text/html" title="Reboot of hafur.com" />
     <published>2024-06-23T00:00:00+02:00</published>
   
-    <updated>2024-06-23T23:10:19+02:00</updated>
+    <updated>2024-06-24T19:41:27+02:00</updated>
   
-    <id>/posts/reboot/</id>
-    <content src="/posts/reboot/" />
+    <id>http://localhost:4000/posts/reboot/</id>
+    <content src="http://localhost:4000/posts/reboot/" />
     <author>
       <name>hafur</name>
     </author>
