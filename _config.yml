@@ -18,7 +18,7 @@ title: hafur.com  # the main title
 
 tagline: vague pictures of amazing moments # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description:  # used by seo meta and the atom feed
   A minimal, personal blog with tech and photos.
 
 # Fill in the protocol & hostname for your site.
