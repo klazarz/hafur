@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>hafur.com</title>
   <subtitle>A minimal, personal blog with tech and photos.</subtitle>
-  <updated>2024-06-26T19:08:36+02:00</updated>
+  <updated>2024-06-28T21:17:33+02:00</updated>
   <author>
     <name>kevin</name>
     <uri>http://localhost:4000/</uri>
@@ -51,7 +51,7 @@ it should actually work because I’m using the app so I’m committing right to
     <link href="http://localhost:4000/posts/reboot/" rel="alternate" type="text/html" title="Reboot of hafur.com" />
     <published>2024-06-23T00:00:00+02:00</published>
   
-    <updated>2024-06-24T19:41:27+02:00</updated>
+    <updated>2024-06-28T14:13:00+02:00</updated>
   
     <id>http://localhost:4000/posts/reboot/</id>
     <content src="http://localhost:4000/posts/reboot/" />
@@ -65,10 +65,10 @@ it should actually work because I’m using the app so I’m committing right to
     
   
 
-  <summary>When this post goes online it will be already quite old.
+  <summary>When this post goes online it will be already quite old. OLD!
 While my current version of hafur.com still online, I am already preparing a new version.
 
-I am moving back to a Jekyll-based homepage. This time I will use GitHub Pages for the hosting. This is will take away one major headache, I had the last time I was using Jekyll: The server maintenance. That part I am happy to leave to Github going ...</summary>
+I am moving back to a Jekyll-based homepage. This time I will use GitHub Pages for the hosting. This is will take away one major headache, I had the last time I was using Jekyll: The server maintenance. That part I am happy to leave to Github g...</summary>
 
   </entry>
 
